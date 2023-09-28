@@ -1,0 +1,155 @@
+[
+  {
+    "id": 1,
+    "title": "Товар 1",
+    "price": {
+      "currency": "RUB",
+      "value": 1267.12
+    },
+    "image": "http://via.placeholder.com/500",
+    "brand": "b9",
+    "stock": 5,
+    "offers": [
+      {
+        "id": 1,
+        "color": "red",
+        "sizes": "S",
+        "available": 0        
+      },
+      {
+        "id": 2,
+        "color": "red",
+        "sizes": "M",
+        "available": 0
+      },
+      {
+        "id": 3,
+        "color": "green",
+        "sizes": "M",
+        "available": 5,
+        "image": "http://via.placeholder.com/100"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Товар 2",
+    "price": {
+      "currency": "RUB",
+      "value": 3264.87
+    },
+    "image": "http://via.placeholder.com/600",
+    "brand": "b8",
+    "stock": 0
+  },
+  {
+    "id": 3,
+    "title": "Товар 3",
+    "price": {
+      "currency": "RUB",
+      "value": 1428.91
+    },
+    "image": "http://via.placeholder.com/700",
+    "brand": "b2",
+    "stock": 11
+  },
+  {
+    "id": 4,
+    "title": "Товар 4",
+    "price": {
+      "currency": "RUB",
+      "value": 4516.23
+    },
+    "image": "http://via.placeholder.com/800",
+    "brand": "b7",
+    "stock": 7,
+    "offers": [
+      {
+        "id": 1,
+        "color": "red",
+        "sizes": "S",
+        "available": 1
+      },
+      {
+        "id": 2,
+        "color": "blue",
+        "sizes": "M",
+        "available": 1,
+        "image": "http://via.placeholder.com/100"
+      },
+      {
+        "id": 3,
+        "color": "green",
+        "sizes": "L",
+        "available": 5
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Товар 5",
+    "price": {
+      "currency": "RUB",
+      "value": 8182.00
+    },
+    "image": "http://via.placeholder.com/900",
+    "brand": "b3",
+    "stock": 6
+  },
+  {
+    "id": 6,
+    "title": "Товар 6",
+    "price": {
+      "currency": "RUB",
+      "value": 7127.41
+    },
+    "image": "http://via.placeholder.com/1000",
+    "brand": "b6",
+    "stock": 1
+  },
+  {
+    "id": 7,
+    "title": "Товар 7",
+    "price": {
+      "currency": "RUB",
+      "value": 2123.40
+    },
+    "image": "http://via.placeholder.com/900",
+    "brand": "b5",
+    "stock": 0
+  },
+  {
+    "id": 8,
+    "title": "Товар 8",
+    "price": {
+      "currency": "RUB",
+      "value": 592.32
+    },
+    "image": "http://via.placeholder.com/800",
+    "brand": "b1",
+    "stock": 8,
+    "offers": [
+      {
+        "id": 1,
+        "sizes": "M",
+        "available": 4
+      },
+      {
+        "id": 2,
+        "sizes": "L",
+        "available": 4
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Товар 9",
+    "price": {
+      "currency": "RUB",
+      "value": 253.40
+    },
+    "image": "http://via.placeholder.com/700",
+    "brand": "b2",
+    "stock": 9
+  }
+]
