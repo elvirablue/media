@@ -241,8 +241,8 @@ export default {
       this.findOfferId()
     },
     findOfferId() {
-      if (this.selectedOffers.color && this.selectedOffers.size) {
-        this.selectedOffers.id = this.currentOffers.find(i => (i.color === this.selectedOffers.color && i.sizes === this.selectedOffers.size)).id
+      if (this.selectedOffers.color || this.selectedOffers.size) {
+        this.selectedOffers.id = this.currentOffers.find(i => (i.color === this.selectedOffers.color || i.sizes === this.selectedOffers.size)).id
       }
     },
     sendToBasket() {

@@ -2,7 +2,7 @@
   <b-container>
     <b-navbar class="border-bottom border-info">
       <b-navbar-brand to="/">
-        <img src="/logo.png" class="d-block align-top" alt="">
+        <img src="~/static/logo.png" class="d-block align-top" alt="">
       </b-navbar-brand>
 
       <b-navbar-nav class="ml-auto">
